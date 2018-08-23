@@ -8,6 +8,8 @@ It's not a responsibility any among us asked for, but now, when you visit home f
 >
 > https://www.youtube.com/watch?v=vB14ey7uO1s
 
+If only there were a software solution that allowed them to diagnose and repair their computer problems on their own...
+
 ## Introducting... _Irving's Computer Repair and Anti-Virus_
 
 <img src="https://github.com/hunterirving/Irving-s-Computer-Repair-and-Anti-Virus/blob/master/computerrepair.gif">
