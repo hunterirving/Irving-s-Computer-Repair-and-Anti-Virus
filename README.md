@@ -16,7 +16,7 @@ It's not a responsibility any among us asked for, but now, when you visit home f
 
  <h1><img src="https://github.com/hunterirving/Irving-s-Computer-Repair-and-Anti-Virus/blob/master/dollaz.gif" width="3.5%"><i> And, at a price I can afford! </i> <img src="https://github.com/hunterirving/Irving-s-Computer-Repair-and-Anti-Virus/blob/master/dollaz.gif"><img src="https://github.com/hunterirving/Irving-s-Computer-Repair-and-Anti-Virus/blob/master/dollaz.gif" width="3.5%">
 
-(it's free)
+(it's free)<img src="https://github.com/hunterirving/Irving-s-Computer-Repair-and-Anti-Virus/blob/master/dollaz.gif" width="3.5%">
 </h1>
 <br><br>
 <hr>
