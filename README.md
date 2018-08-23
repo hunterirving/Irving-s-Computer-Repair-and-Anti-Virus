@@ -24,6 +24,10 @@ It's not a responsibility any among us asked for, but now, when you visit home f
 
 ## With All Sincerety...
 
-Although I _did_ burn this HTML file to a disk and write "Computer Repair" on it in sharpie, I figured it would have been too mean-spirited to actually distribute it to any of my direct family members.
+Although I did burn this HTML file to a disk and write "Computer Repair" on it in sharpie, I figured it would have been too mean-spirited to actually distribute it to any of my direct family members.
 
 That being said, I __do__ have a lot of blank CDs... :^)
+
+## Try Before U Buy
+
+You can launch _Irving's Computer Repair and Anti-Virus_ directly from your web-browser using <a href="http://htmlpreview.github.com/?https://github.com/hunterirving/Irving-s-Computer-Repair-and-Anti-Virus/blob/master/computerrepair.html">__this link</a>.__
